@@ -68,27 +68,122 @@ content:
     layout: list
     content:
       - layout: left
-        title: Researcher & Developer
-        sub_title: Nov. 2023 - Present
-        caption: CM Technical Research Institute, JUNGLIM CM Co., Ltd.
+        title: Researcher & Developer (Director)
+        sub_title: JUNGLIM CM Technical Research Institute
+        caption: CM Technical Research Institute of JUNGLIM CM (Current)
         # link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           As a Researcher and Deleloper, I am currently participated in the projects for developing the system to be used at JUNGLIM CM.
           + Working on Planning and Developing an Integrated Document Management System (IDMS) to be used at JUNGLIM CM
-          + Working on Planning and Devloping a quantity estimation model for structural work using BIM extracted data
+          + Working on Planning and Devloping a estimation model (Quantity Take-off) for structural work using BIM extracted data
+
+      - layout: left
+        title: Construction Manager (Director)
+        sub_title: JUNGLIM Architecture Co., Ltd.
+        caption: CM Team for Latin America Region of KOICA
+        # link: Link to company (optional)
+        # quote: >
+        #   Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          As a Resident Construction Manager who managed 5 construction projects in Dominican Republic (DR) and Guatemala, I had participated in the project on behalf of KOICA DR office. 
+          In consideration of the characteristics and the local conditions of each project, all conditions for the project progress were prepared, and I have mainly worked as belows.   
+          + Established the <mark>Bidding Strategies</mark> and <mark>Plan</mark> for the bidding process, including the evaluation, for construction and service 
+          + Prepared the bidding documents, and proceeded with the bidding process for the selection of Construction Contractor and Supervisor, then proceeded with <mark>Contract Negotiations</mark> with preferred negotiators
+          + Understood the reasons for failure in bidding through interviews with the local contractors and identified the status of qualified companies considering the progress of private contract
+          + <mark>Contract Management</mark> (including variations for $140K, etc) and construction management of interim-payment, quality, and safety
+
+      - layout: left
+        title: Quantity Surveyor (Senior Manager)
+        sub_title: JUNGLIM Architecture Co., Ltd.
+        caption: Quantity Surveyor Team
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        #additional_links:
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        description: | # this will include new lines to allow paragraphs
+          As Quantity Surveyor, I had analyzed and established a database for estimating the Construction Cost in the design phase, 
+          including correlation analysis using <mark>SPSS</mark> between Construction Cost and input of design outline,
+          then I was developing a Model using Excel with <mark>VBA</mark> that estimates the Construction Cost.
+          I also prepared and reviewed the Bill of Quantity and Cost Statements of the several design services in domestic,   
+          + Estimating the Appropriate Construction Cost for the Remodeling of New Construction Projects in Design Phase, 
+          + Controled and Planned the Construction Cost of the Design Works,
+          + Evaluated the tender documents submitted by the Tendering Parties,
+          Research and Development Project
+          + Development of the Model for Estimating the Appropriciate Construction Period based on <mark>Case-Based Reasoning</mark> in Concept Design Phase,
+          + Development of the Management Tool for Construction Cost per Room Unit in Design Phase using DATA extracted from <mark>BIM</mark>,
+
+
+      - layout: left
+        title: Director
+        sub_title: Feb. 2022 - Oct. 2023
+        caption: CM Team for Latin America Region of KOICA
+        # link: Link to company (optional)
+        # quote: >
+        #   Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          As a Resident Construction Manager who managed 5 construction projects in Dominican Republic (DR) and Guatemala, I had participated in the project on behalf of KOICA DR office. 
+
+  - title: Employment
+    layout: list
+    content:
+      - layout: right
+        title: JUNGLIM CM Co., Ltd.
+        sub_title: Director
+        caption: Jan. 2023 - Present
+        link: http://www.junglim.com
+        description: | # this will include new lines to allow paragraphs
+          I am mainly in charge of the Planning and Developing the CM System to be used at JUNGLIM CM, such as an Integrated Document Management System and a Quantity Estimation Model of Architectural work using BIM extrated data
+
+      - layout: right
+        title: JUNGLIM Architecture Co., Ltd.
+        sub_title: Director
+        caption: Jan. 2010 - Dec. 2022
+        link: http://www.junglim.com
+        description: | # this will include new lines to allow paragraphs
+          I were mainly in charge of the Tendering for the Construction Management Service in Korea, 
+          also handled the Tendering and Business Management for <mark>ODA</mark> (Official Development Assistance), including <mark>KOICA</mark>, 
+          <mark>EDCF</mark>, <mark>ADB</mark>, <mark>WB</mark>.
+
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: left
+        title: Quantity Surveyor (QS) Training Programme
+        sub_title: Certified Programme of QS Training Programme 
+        caption: May. 2014 - Oct. 2014
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          I completed the various modules, including Construction Law and Dispute, Cost Planning and Control, Procurement and Tendering, Contract Practice, etc.
+      - layout: left
+        title: FIDIC-KENCA Accredited Training Programme
+        sub_title: Certified Programme of FIDIC-KENCA Accredited Training 
+        caption: May. 2012 - Oct. 2012
+        description: | # this will include new lines to allow paragraphs
+          I completed 10 Modules, including Contract Management and Administration, FIDIC Modules, Project Procurement, etc. 
+      - layout: left
+        title: University of Seoul
+        sub_title: M.S. Construction Management 
+        caption: Mar. 2008 - Feb. 2010
+        description: | # this will include new lines to allow paragraphs
+          I had performed the various projects such as <mark>VE</mark> (Value Engineering) in Construction and also participated in research project, 
+          which is developed the Model for Estimating the Construction Cost and Building Management System funded by Ministry of Land, Transportation and Maritime.
+          I published 1 paper in poster session, and 3 papers at conference.   
+          + _Kang, D.W._, Ji, S.M., etc., Development of Cost Data Prototype based on Production Crew by Productivity Analysis of Form Work (Jan. 2012, [_Paper_](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001629968) in Korean),
+          + _Kang, D.W._, Sim, J.G., etc., A Study on the Productivity Analysis of Superstructure Construction for Multi-Housing Projects Using Construction Simulation (Apr. 2010, [_Paper_](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001442687) in Korean),   
+          + _Kang, D.W._, Moon H.S., etc., Development of a Simulation Model for the Productivity Analysis of Form Work in Multi-Family Housing Construction Projects (Nov. 2009, [_Paper_](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13265387) in Korean),   
+          + Jin, R.Z., _Kang, D.W._, Sim, J.G, etc., A Study on the Life Cycle Cost of a Grating (May. 2009, ICCEM-ICCPM 2009, Poster Session)
+      - layout: left
+        title: Jeju National University 
+        sub_title: B.S. Architectural Engineering #Construction Management
+        caption: Mar. 2000 - Feb. 2008
+        description: |
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
