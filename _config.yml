@@ -68,9 +68,9 @@ content:
     layout: list
     content:
       - layout: left
-        title: Researcher & Developer (Director)
-        sub_title: JUNGLIM CM Technical Research Institute
-        caption: CM Technical Research Institute of JUNGLIM CM (Current)
+        title: Researcher & Developer 
+        sub_title: CM Technical Research Institute
+        caption: JUNGLIM CM Co., Ltd. (Current ~ )
         # link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
@@ -80,9 +80,9 @@ content:
           + Working on Planning and Devloping a estimation model (Quantity Take-off) for structural work using BIM extracted data
 
       - layout: left
-        title: Construction Manager (Director)
-        sub_title: JUNGLIM Architecture Co., Ltd.
-        caption: CM Team for Latin America Region of KOICA
+        title: Construction Manager 
+        sub_title: CM Team for Latin America Region of KOICA
+        caption: JUNGLIM Architecture Co., Ltd. 
         # link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
@@ -95,9 +95,9 @@ content:
           + <mark>Contract Management</mark> (including variations for $140K, etc) and construction management of interim-payment, quality, and safety
 
       - layout: left
-        title: Quantity Surveyor (Senior Manager)
-        sub_title: JUNGLIM Architecture Co., Ltd.
-        caption: Quantity Surveyor Team
+        title: Quantity Surveyor
+        sub_title: Quantity Surveyor Team
+        caption: JUNGLIM Architecture Co., Ltd.
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         #additional_links:
@@ -119,17 +119,6 @@ content:
           + Development of the Model for Estimating the Appropriciate Construction Period based on <mark>Case-Based Reasoning</mark> in Concept Design Phase,
           + Development of the Management Tool for Construction Cost per Room Unit in Design Phase using DATA extracted from <mark>BIM</mark>,
 
-
-      - layout: left
-        title: Director
-        sub_title: Feb. 2022 - Oct. 2023
-        caption: CM Team for Latin America Region of KOICA
-        # link: Link to company (optional)
-        # quote: >
-        #   Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          As a Resident Construction Manager who managed 5 construction projects in Dominican Republic (DR) and Guatemala, I had participated in the project on behalf of KOICA DR office. 
-
   - title: Employment
     layout: list
     content:
@@ -139,7 +128,6 @@ content:
         caption: Jan. 2023 - Present
         link: http://www.junglim.com
         description: | # this will include new lines to allow paragraphs
-          I am mainly in charge of the Planning and Developing the CM System to be used at JUNGLIM CM, such as an Integrated Document Management System and a Quantity Estimation Model of Architectural work using BIM extrated data
 
       - layout: right
         title: JUNGLIM Architecture Co., Ltd.
@@ -147,9 +135,6 @@ content:
         caption: Jan. 2010 - Dec. 2022
         link: http://www.junglim.com
         description: | # this will include new lines to allow paragraphs
-          I were mainly in charge of the Tendering for the Construction Management Service in Korea, 
-          also handled the Tendering and Business Management for <mark>ODA</mark> (Official Development Assistance), including <mark>KOICA</mark>, 
-          <mark>EDCF</mark>, <mark>ADB</mark>, <mark>WB</mark>.
 
   - title: Education
     layout: list
@@ -184,12 +169,12 @@ content:
         caption: Mar. 2000 - Feb. 2008
         description: |
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#
+#      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
